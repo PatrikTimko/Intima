@@ -263,5 +263,5 @@ document.addEventListener("DOMContentLoaded", function () {
         updateContent(currentLanguage)
     })
 
-
+    module.exports = {updateContent};
 })
